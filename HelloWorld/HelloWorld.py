@@ -12,10 +12,12 @@ comments
 '''
 print("from", name)
 
-quote="\"Always remember you are unique\""
+quote="\"Always remember you are unique"
 multilinequote='''just like
-everyone else'''
+everyone else\"'''
 
 print("%s %s %s" % ('I like the quote', quote, multilinequote))
+
+
 
 
